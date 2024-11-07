@@ -1,0 +1,9 @@
++++
+author = "Kunxin Zhu"
++++
+
+I am an PhD candidate at the [Department of Agricultural, Environmental, and Development Economics](https://aede.osu.edu/home) at The Ohio State University in Columbus, OH (USA). I completed my master degree in Environmental Economics at the Nicholas School of the Environment, Duke University. I hold a B.S. in Physics from Nankai University (China). 
+
+To what extent can investments in natural capital reduce natural hazard risk? How does hazard-induced migration affect community composition? Can short-term adaptation strategies unintentionally increase longer term vulnerability to hazards? To address these policy-relevant questions in both low- and middle-income countries and developed economies, I use a combination of empirical and numerical methods draw on methods in **environmental economics**, **development economics**, and **urban economics**.
+
+Specifically, I am interested in behavioral responses to natural hazard risk, and how **short-term adaptation decisions** affect natural and built capital stocks, and community composition in the **long run**. In India, I examine the role of investment in mangroves in mitigating cyclone damage in rural India using a shift-share instrument derived from historical mangrove distribution. In the context of developed economies, I primarily focus on the connection between short-term responses on both the supply and demand sides of the housing market and the long-term evolution of natural hazard-prone areas in the U.S. Specifically, I studies the implication of hazard-induced renovations, migration, and associated tenure chocie decisions on housing market dynamics with increasing hazard risks.
