@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kunxin-Z.github.io/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kunxin-Z.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/english/research/</link>
+      <link>https://kunxin-Z.github.io/english/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/research/</guid>
+      <guid>https://kunxin-Z.github.io/english/research/</guid>
       
         <description>&lt;h2 id=&#34;working-paper&#34;&gt;Working paper&lt;/h2&gt;
 &lt;h4 id=&#34;kunxin-zhu-sathya-gopalakrishnan-daniela-miteva-mangroves-help-reduce-the-impact-of-climate-induced-cyclones-in-india&#34;&gt;&lt;em&gt;Kunxin Zhu&lt;/em&gt;, Sathya Gopalakrishnan, Daniela Miteva. Mangroves Help Reduce the Impact of Climate-induced Cyclones in India&lt;/h4&gt;
 &lt;details&gt;
   &lt;summary&gt;Details&lt;/summary&gt;
   Mangroves shelter coastal economic activities during natural hazards like cyclones. However, despite consistent emphasis on such hazard mitigation benefits in mangrove preservation and restoration projects, there is insufficient information about the magnitude of such benefits, especially in India. Using night lights data, we quantify the cyclone mitigation impact of mangroves by analyzing 27 cyclone events that affected the eastern coast of India between 2012 and 2019. We estimate the overall short-term impact of cyclones on economic activity at the village-level and find that an hour of exposure to a category-4 equivalent cyclone decreased short-term local economic activity, proxied by night light intensity, by 12% for the average rural village along the east coast of India. Controlling for the endogenous distribution of mangroves, we find that on average 7% of cyclone damage was mitigated by mangroves. Second, the significant heterogeneity in the effect of cyclones across villages imply that natural hazard mitigation benefits from mangroves can substitute for local private investment in risk mitigation effort (e.g., quality of housing structures), as the marginal value of benefits from mangroves decreases in wealthier regions. Third, we find negative spillover effects in in adjacent villages, suggesting that migration into mangrove-protected regions may overestimate the cyclone mitigation benefits of mangroves. 
-&lt;figure class=&#34;medium&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/mangrove_1.png&#34;
+&lt;figure class=&#34;medium&#34;&gt;&lt;img src=&#34;https://kunxin-Z.github.io/images/mangrove_1.png&#34;
       alt=&#34;Mangrove Image&#34;&gt;&lt;figcaption&gt;
         &lt;p&gt;Distribution of cyclone tracks, mangroves, and studied regions&lt;/p&gt;</description>
       
@@ -26,17 +26,17 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://kunxin-Z.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://kunxin-Z.github.io/research/</guid>
       
         <description>&lt;h2 id=&#34;working-paper&#34;&gt;Working paper&lt;/h2&gt;
 &lt;h4 id=&#34;kunxin-zhu-sathya-gopalakrishnan-daniela-miteva-mangroves-help-reduce-the-impact-of-climate-induced-cyclones-in-india&#34;&gt;&lt;em&gt;Kunxin Zhu&lt;/em&gt;, Sathya Gopalakrishnan, Daniela Miteva. Mangroves Help Reduce the Impact of Climate-induced Cyclones in India&lt;/h4&gt;
 &lt;details&gt;
   &lt;summary&gt;Details&lt;/summary&gt;
   Mangroves shelter coastal economic activities during natural hazards like cyclones. However, despite consistent emphasis on such hazard mitigation benefits in mangrove preservation and restoration projects, there is insufficient information about the magnitude of such benefits, especially in India. Using night lights data, we quantify the cyclone mitigation impact of mangroves by analyzing 27 cyclone events that affected the eastern coast of India between 2012 and 2019. We estimate the overall short-term impact of cyclones on economic activity at the village-level and find that an hour of exposure to a category-4 equivalent cyclone decreased short-term local economic activity, proxied by night light intensity, by 12% for the average rural village along the east coast of India. Controlling for the endogenous distribution of mangroves, we find that on average 7% of cyclone damage was mitigated by mangroves. Second, the significant heterogeneity in the effect of cyclones across villages imply that natural hazard mitigation benefits from mangroves can substitute for local private investment in risk mitigation effort (e.g., quality of housing structures), as the marginal value of benefits from mangroves decreases in wealthier regions. Third, we find negative spillover effects in in adjacent villages, suggesting that migration into mangrove-protected regions may overestimate the cyclone mitigation benefits of mangroves. 
-&lt;figure class=&#34;medium&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/mangrove_1.png&#34;
+&lt;figure class=&#34;medium&#34;&gt;&lt;img src=&#34;https://kunxin-Z.github.io/images/mangrove_1.png&#34;
       alt=&#34;Mangrove Image&#34;&gt;&lt;figcaption&gt;
         &lt;p&gt;Distribution of cyclone tracks, mangroves, and studied regions&lt;/p&gt;</description>
       
@@ -44,10 +44,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/teaching/</link>
+      <link>https://kunxin-Z.github.io/english/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/teaching/</guid>
+      <guid>https://kunxin-Z.github.io/english/teaching/</guid>
       
         <description>&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;
 &lt;p&gt;My goal as a teacher is to create an engaging, hands-on learning environment that fosters students&amp;rsquo; enthusiasm for exploring relevant topics while equipping them with the tools they need to approach real-life problems. My teaching philosophy is rooted in a deep passion for the content I teach and a commitment to spreading that enthusiasm with students I teach. I believe that when students sense their instructor&amp;rsquo;s genuine excitement for a subject, they are more likely to engage deeply with the material themselves. I strive to create an interactive learning environment that nurtures this curiosity and provides methods for students to overcome potential obstacles.&lt;/p&gt;</description>
@@ -56,10 +56,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://kunxin-Z.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://kunxin-Z.github.io/teaching/</guid>
       
         <description>&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;
 &lt;p&gt;My goal as a teacher is to create an engaging, hands-on learning environment that fosters students&amp;rsquo; enthusiasm for exploring relevant topics while equipping them with the tools they need to approach real-life problems. My teaching philosophy is rooted in a deep passion for the content I teach and a commitment to spreading that enthusiasm with students I teach. I believe that when students sense their instructor&amp;rsquo;s genuine excitement for a subject, they are more likely to engage deeply with the material themselves. I strive to create an interactive learning environment that nurtures this curiosity and provides methods for students to overcome potential obstacles.&lt;/p&gt;</description>

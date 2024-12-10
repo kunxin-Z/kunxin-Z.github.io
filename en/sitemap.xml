@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/english/</loc>
+    <loc>https://kunxin-Z.github.io/english/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kunxin-Z.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/"
+                href="https://kunxin-Z.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://kunxin-Z.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/english/research/</loc>
+    <loc>https://kunxin-Z.github.io/english/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://kunxin-Z.github.io/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/english/teaching/</loc>
+    <loc>https://kunxin-Z.github.io/english/teaching/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://kunxin-Z.github.io/teaching/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kunxin-Z.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
+                href="https://kunxin-Z.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://kunxin-Z.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://kunxin-Z.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/series/"
+                href="https://kunxin-Z.github.io/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://kunxin-Z.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kunxin-Z.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
+                href="https://kunxin-Z.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://kunxin-Z.github.io/tags/"
                 />
   </url>
 </urlset>
