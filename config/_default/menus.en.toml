@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "CV"
+  weight = 200
+  url = "/pdfs/CV.pdf"
+
+
+  [[main]]
+  name = "Research"
+  weight = 300
+  identifier = "research"
+  url = "/research/"
+
+  [[main]]
+  name = "Teaching"
+  weight = 400
+  identifier = "teaching"
+  url = "/teaching/"
+
+  #[[main]]
+  #name = "test"
+  #weight = 400
+  #identifier = "portfolio"
+  #url = "/portfolio/"
+
+  #[[footer]]
+  #name = "disclaimer"
+  #weight = 1
+  #identifier = "disclaimer"
+  #url = "/disclaimer/"
